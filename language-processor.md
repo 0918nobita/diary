@@ -1,5 +1,11 @@
 # 言語処理系
 
+## 2018 11/30 (金)
+
+### Types and Programming Language
+
+通称 TaPL を読み始めた
+
 ## 2018 11/16 (金)
 
 ### 自作言語 **InVerse** について
